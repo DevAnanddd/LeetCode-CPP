@@ -7,6 +7,7 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/1009-complement-of-base-10-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
