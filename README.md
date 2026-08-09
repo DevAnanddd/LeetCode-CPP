@@ -31,4 +31,12 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
