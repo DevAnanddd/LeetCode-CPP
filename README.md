@@ -8,10 +8,12 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 | ------- |
 | [0001-two-sum](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +41,12 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0125-valid-palindrome) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
