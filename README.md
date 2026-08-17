@@ -40,13 +40,19 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
