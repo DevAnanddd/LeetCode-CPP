@@ -46,6 +46,7 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -55,4 +56,12 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
