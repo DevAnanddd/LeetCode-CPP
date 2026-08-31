@@ -20,6 +20,7 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 | [0007-reverse-integer](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
