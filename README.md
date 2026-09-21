@@ -8,6 +8,7 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 | ------- |
 | [0001-two-sum](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0198-house-robber) |
 ## Recursion
 |  |
 | ------- |
