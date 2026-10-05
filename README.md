@@ -10,6 +10,7 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0198-house-robber) |
 | [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 | [0020-valid-parentheses](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -68,4 +70,8 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
