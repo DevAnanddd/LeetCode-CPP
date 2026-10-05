@@ -42,11 +42,13 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 | [0225-implement-stack-using-queues](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -74,4 +77,5 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
