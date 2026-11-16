@@ -78,4 +78,20 @@ Solved LeetCode problems in C++ for Data Structures and Algorithms
 | ------- |
 | [0682-baseball-game](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0844-backspace-string-compare) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/DevAnanddd/LeetCode-CPP/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
